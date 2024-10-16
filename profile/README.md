@@ -3,4 +3,4 @@
 
 ### Open Sourcing soon!
 
-### Unleashing the hidden potential of LLMs for the humanities ⚡
+### Unleashing the hidden potential of LLMs for the humanities 🔥🌊🌬️🪨
