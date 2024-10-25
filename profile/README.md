@@ -7,4 +7,9 @@
 
 ![image](https://github.com/user-attachments/assets/525e69fc-3f94-46b5-90b4-1ce232024940)
 
-![image](https://github.com/user-attachments/assets/372f6de8-cbb5-4106-8ed4-675a2ac7b1da)
+
+![image](https://github.com/user-attachments/assets/84c216e4-737b-458e-a0e2-9445c0299f59)
+
+
+
+### We strongly believe in descentralization - Reaper is entirely self-hosted and able to run locally.
