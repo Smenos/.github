@@ -5,7 +5,7 @@
 
 ### Unleashing the hidden potential of LLMs for the humanities 🔥🌊🌬️🪨
 
-![image](https://github.com/user-attachments/assets/525e69fc-3f94-46b5-90b4-1ce232024940)
+![image](https://github.com/user-attachments/assets/29a8b529-7372-4e62-90bb-0f9ebe6c6bd4)
 
 
 ![image](https://github.com/user-attachments/assets/84c216e4-737b-458e-a0e2-9445c0299f59)
