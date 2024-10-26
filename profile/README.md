@@ -5,7 +5,7 @@
 
 ### Unleashing the hidden potential of LLMs for the humanities 🔥🌊🌬️🪨
 
-![image](https://github.com/user-attachments/assets/29a8b529-7372-4e62-90bb-0f9ebe6c6bd4)
+![image](https://github.com/user-attachments/assets/c9ace80c-beda-498e-9d73-3f0b0462b923)
 
 
 ![image](https://github.com/user-attachments/assets/84c216e4-737b-458e-a0e2-9445c0299f59)
@@ -13,3 +13,5 @@
 
 
 ### We strongly believe in descentralization - Reaper is entirely self-hosted and able to run locally.
+
+### Through analytical jungian algebra and some CoT we are able to craft and compose what we call _higher order neural nets_ a groundbreaking approach towards understanding intelligence, 
