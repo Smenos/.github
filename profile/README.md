@@ -12,6 +12,7 @@
 
 
 
-### We strongly believe in descentralization - Reaper is entirely self-hosted and able to run locally.
+### Through analytical jungian algebra and some CoT reaper can compose what we call _higher order neural nets_ which is a groundbreaking approach towards understanding intelligence as a looping reflection of space, time and non-locality: esentially a monologue comprised of questions and answers. 
 
-### Through analytical jungian algebra and some CoT we are able to craft and compose what we call _higher order neural nets_ a groundbreaking approach towards understanding intelligence, 
+
+### We strongly believe in descentralization - Reaper is entirely self-hosted and able to run locally.
