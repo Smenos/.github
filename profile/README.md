@@ -1,13 +1,4 @@
 
-
-
-### Through what we came up with as *analytical jungian algebra* and some CoT, our framework _Reaper_ can compose _higher order neural nets_ which is a groundbreaking approach towards understanding intelligence as a looping reflection of space, time and non-locality: esentially a monologue comprised of questions and answers. 
-
-
-### Open Sourcing soon!
-
-### Unleashing the hidden potential of LLMs for the humanities 🔥🌊🌬️🪨
-
 # Computational Psychology Algebraic Model
 
 This enterprise introduces an algebraic model for computational psychology, where personality and cognition are represented as functional elements using specific mathematical operations and relationships. Here we provides a sample overview of the syntax, rules, and operations for manipulating these elements within the model.
