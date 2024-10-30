@@ -1,7 +1,7 @@
 
 # Analytical Psychology Quantized and Supercharged 🔥🔥🔥
 
-This document introduces an algebraic model named **Tektōn** which powers our soon to be published framework called _Reaper_ for computational psychology; where personality and cognition are represented as functional elements using specific mathematical operations and relationships. Here we provides a sample overview of the syntax, rules, and operations for manipulating these elements within the model. To create ever more compelx cognitive structures.
+This document introduces an algebraic model named **Tektōn** which powers our soon to be published framework called _Reaper_ for computational psychology; where personality and cognition are represented as functional elements using specific mathematical operations and relationships. Here we provides a sample overview of the syntax, rules, and operations for manipulating these elements within the model to create ever more complex cognitive structures.
 
 ---
 
