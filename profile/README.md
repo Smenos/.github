@@ -1,7 +1,7 @@
 
 # Computational Psychology Algebraic Model
 
-This enterprise introduces an algebraic model for computational psychology, where personality and cognition are represented as functional elements using specific mathematical operations and relationships. Here we provides a sample overview of the syntax, rules, and operations for manipulating these elements within the model.
+This enterprise introduces an algebraic model aswell as a family of tools based on our framework which we call _Reaper_ for computational psychology, where personality and cognition are represented as functional elements using specific mathematical operations and relationships. Here we provides a sample overview of the syntax, rules, and operations for manipulating these elements within the model.
 
 ---
 
