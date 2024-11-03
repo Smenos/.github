@@ -1,7 +1,7 @@
 
 # Analytical Psychology Quantized and Supercharged 🔥🔥🔥
 
-This document introduces an algebraic model named **Tektōn** which powers our soon to be published framework called _Reaper_ for computational psychology; where personality and cognition are represented as functional elements using specific mathematical operations and relationships. Here we provides a sample overview of the syntax, rules, and operations for manipulating these elements within the model to create ever more complex cognitive structures. Through analytical jungian algebra and some CoT, reaper can compose what we call **higher order neural nets** which is a groundbreaking approach towards understanding intelligence as a looping reflection of space, time and non-locality: esentially a monologue comprised of questions and answers.
+This document introduces an algebraic model named **Tektōn** which powers our soon to be published framework  _Reaper_ for computational psychology; where personality and cognition are represented as functional elements using specific mathematical operations and relationships. Here we provides a sample overview of the syntax, rules, and operations for manipulating these elements within the model to create ever more complex cognitive structures. Through analytical jungian algebra and some CoT, reaper can compose what we call **higher order neural nets** which is a groundbreaking approach towards understanding intelligence as a looping reflection of space, time and non-locality: esentially a monologue comprised of questions and answers.
 
 ---
 
