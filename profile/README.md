@@ -131,5 +131,6 @@ Final simplified expression:
 
 ![image](https://github.com/user-attachments/assets/84c216e4-737b-458e-a0e2-9445c0299f59)
 
+![image](https://github.com/user-attachments/assets/f281f404-06ac-49c9-88c4-f6d5df041bc5)
 
 ### We strongly believe in descentralization - Reaper is entirely self-hosted and able to run locally.
